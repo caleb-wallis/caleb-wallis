@@ -21,6 +21,8 @@ I enjoy physical activities, moving around, and pushing past my limits.
 2. Java Dictionary Lookup
 3. C# + SQL Database Application
 
+#### Currently Working on Adding Images and Details to Git Repos
+
 <!--
 **caleb-wallis/caleb-wallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
